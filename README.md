@@ -2,7 +2,9 @@
 
 **React · Node.js · TypeScript**
 
-Front-end developer with 5+ years building scalable web applications. I specialize in **React** and **Node.js**, with a focus on clean architecture, TypeScript, and REST API integration. I care about writing maintainable code and delivering solid user experiences.
+Frontend Developer with experience building web applications using React, TypeScript, and modern JavaScript, integrating REST APIs and developing full-stack features with Node.js and Express.
+Experienced working in agile environments (SCRUM), collaborating with UI/UX teams, and building scalable, component-driven interfaces.
+Practical knowledge in testing, software architecture, and modern development patterns — including Hexagonal Architecture and DDD at a conceptual level.
 
 Based in Valencia, Spain. Open to remote opportunities.
 
@@ -19,6 +21,7 @@ Based in Valencia, Spain. Open to remote opportunities.
 
 **APIs & Backend**
 
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -27,6 +30,7 @@ Based in Valencia, Spain. Open to remote opportunities.
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 **Database & Tooling**
 
@@ -54,9 +58,8 @@ Based in Valencia, Spain. Open to remote opportunities.
 
 | Project | Stack | Description |
 |---|---|---|
-| [julioweb](https://github.com/JulioMartinezTech/julioweb) | React | Personal portfolio site |
-| [Api-access-token](https://github.com/JulioMartinezTech/Api-access-token) | Node.js · JWT | REST API with JWT authentication |
-| [Trivias-react](https://github.com/JulioMartinezTech/Trivias-react) | React | Trivia app built with React |
+| [Jetour](https://github.com/JulioMartinezTech/Jetour-react) | React | Jetour site |
+
 
 ---
 
